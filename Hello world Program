@@ -1,5 +1,5 @@
 #include<studio.h>
 {
-printf("Hello world")
+printf("Hello world")//This command prints hello world
 return 0;
 }
