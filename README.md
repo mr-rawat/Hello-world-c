@@ -1,3 +1,3 @@
 # Hello-world-c
 
-This is a basic Hello world C program
+This repo contains hello world program for various languages.
